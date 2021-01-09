@@ -21,7 +21,7 @@ export default function Home() {
         >
           Powered by{' '}
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-          and Jesus' code
+          and Jesus' code and love
         </a>
       </footer>
     </div>
